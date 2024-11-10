@@ -87,6 +87,6 @@ def main():
     print(bytes(value_res_list).decode("utf-8"))
     
 """
-Called the function to perform the Trapezoidal-rule approximation
+Called the function to perform the Trapezoidal-rule approximation and get the value
 """
 main()
